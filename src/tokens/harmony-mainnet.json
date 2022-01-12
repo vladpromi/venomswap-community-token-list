@@ -246,5 +246,77 @@
     "name": "HarmonApe",
     "decimals": 9,
     "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/APE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x85FD5f8dBD0c9Ef1806E6c7d4B787d438621C1dC",
+    "symbol": "IRIS",
+    "name": "Iris",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/IRIS.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xd32858211FCEFd0bE0dD3FD6D069c3E821e0AEf3",
+    "symbol": "PLTS",
+    "name": "Plutus",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/PLTS.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x550D9923693998A6FE20801ABe3f1A78e0d75089",
+    "symbol": "IMRTL",
+    "name": "Immortl",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/IMRTL.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x971803c316d80eE490156aF78e8eb5067EDB73AC",
+    "symbol": "rfUST",
+    "name": "ReflectUST",
+    "decimals": 9,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/rfUST.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x60B4568120471bBFf3dEc520bA6609DEf89001C3",
+    "symbol": "KIBA",
+    "name": "KibaOne",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/KIBA.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x725553bc9Aa0939362671407dfDEb162DD37d168",
+    "symbol": "MET",
+    "name": "Metatr.one",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/MET.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xB4441013EA8aA3a9E35c5ACa2B037e577948C59e",
+    "symbol": "UNITE",
+    "name": "UNITE",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/UNITE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0xd0105CFF72A89f6Ff0BD47e1209bf4Bdfb9deA8A",
+    "symbol": "USHARE",
+    "name": "USHARE",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/USHARE.png"
+  },
+  {
+    "chainId": 1666600000,
+    "address": "0x1d8A836A204228051E7E24e86469Ca067dC052c5",
+    "symbol": "UBOND",
+    "name": "UBOND",
+    "decimals": 18,
+    "logoURI": "https://d1xrz6ki9z98vb.cloudfront.net/venomswap/tokens/UBOND.png"
   }
 ]
